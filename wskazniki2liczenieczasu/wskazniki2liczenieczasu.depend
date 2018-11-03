@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492389825 source:c:\users\krajer\desktop\programowanie\c++\projekty\wskazniki2liczenieczasu\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

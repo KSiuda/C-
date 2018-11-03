@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1493115003 source:c:\users\krajer\desktop\programowanie\c++\projekty\wydarzenia\event.cpp
+	<iostream>
+	"event.h"
+
+1493115156 c:\users\krajer\desktop\programowanie\c++\projekty\wydarzenia\event.h
+	<iostream>
+
+1493114796 source:c:\users\krajer\desktop\programowanie\c++\projekty\wydarzenia\main.cpp
+	<iostream>
+	"event.h"
+
