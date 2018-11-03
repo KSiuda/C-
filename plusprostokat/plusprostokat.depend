@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1493144519 source:c:\users\krajer\desktop\programowanie\c++\projekty\plusprostokat\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1493144509 c:\users\krajer\desktop\programowanie\c++\projekty\plusprostokat\przyjaciele.h
+	<iostream>
+
+1493144532 source:c:\users\krajer\desktop\programowanie\c++\projekty\plusprostokat\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+

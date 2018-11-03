@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1493069484 source:c:\users\krajer\desktop\programowanie\c++\projekty\quizobiektowy\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1493068917 source:c:\users\krajer\desktop\programowanie\c++\projekty\quizobiektowy\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1493070178 c:\users\krajer\desktop\programowanie\c++\projekty\quizobiektowy\pytanie.h
+	<iostream>
+	<algorithm>
+	<string>
+
