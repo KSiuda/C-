@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491251641 source:c:\users\krajer\desktop\losowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
